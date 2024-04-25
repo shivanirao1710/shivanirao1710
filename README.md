@@ -1,7 +1,8 @@
 ### Hi there 👋
-I am Shivani 😄
+#### I am Shivani 😄
 - 🌱 I’m currently learning HTML, React JS
 - 👩‍🎓 I'm studying in Sahyadri College of Engineering and Management
+- ✈️ I like to travel and explore
 <!--
 **shivanirao1710/shivanirao1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
