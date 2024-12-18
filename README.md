@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 
 ## 📈 GitHub Stats
 
-![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanirao1710&show_icons=true&hide_title=true)
 
 ## 🤝 Open to Collaboration
 If you're working on a project and need an extra hand, feel free to reach out! I'm open to contributing and collaborating on interesting web development projects.
