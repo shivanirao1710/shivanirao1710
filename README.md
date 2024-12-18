@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 If you're working on a project and need an extra hand, feel free to reach out! I'm open to contributing and collaborating on interesting web development projects.
 
 ## 📬 How to Reach Me
-- Send me a message via GitHub Issues or email me at [raoshivani1710@gmail.com].
+- Send me a message via GitHub Issues or email me at [raoshivani1710@gmail.com](mailto:raoshivani1710@gmail.com).
 
 ---
 
