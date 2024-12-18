@@ -1,36 +1,36 @@
-# Hi, I'm Shivani 👋
+# 👋 Hey there, I'm Shivani!
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong foundation in **HTML** and **CSS**, and I'm currently expanding my skills in **SQL** and **PHP**. I'm always excited to learn new technologies and collaborate on interesting projects.
+Welcome to my corner of the web! I'm a web developer with a passion for **HTML** and **CSS**, and I'm diving into **SQL** and **PHP** to level up my backend skills. I love learning new things, solving problems, and building projects that make a difference.
 
-## 🔭 Currently Working On
-- Building full-stack applications with **ReactJS** and **NodeJS**.
-- Learning **SQL** and **PHP** to enhance my backend development skills.
+## 🚀 Currently on My Journey:
+- 🌍 Building **full-stack applications** with **ReactJS** and **NodeJS**.
+- 📚 Deep diving into **SQL** and **PHP** to understand the power of databases and server-side logic.
 
-## 🌱 Learning
-- **SQL** – Improving database query skills and working with relational databases.
-- **PHP** – Enhancing my server-side scripting skills.
+## 🌱 Things I'm Learning Right Now:
+- **SQL**: Crafting complex queries and working with relational databases like **MySQL**.
+- **PHP**: Getting hands-on with server-side development to build dynamic web applications.
 
-## 💼 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/shivani-rao-a2072726a/)
+## 💬 Let's Connect
+- **LinkedIn**: [Shivani Rao](https://www.linkedin.com/in/shivani-rao-a2072726a/)
 
-## 🧑‍💻 Technologies & Tools I Use
-
+## 🧑‍💻 My Toolset:
 - **Languages**: HTML, CSS, JavaScript, PHP
 - **Frontend**: ReactJS
 - **Backend**: NodeJS, PHP
 - **Databases**: MySQL
-- **Tools**: VSCode, Excel, Git
+- **Tools I Love**: VSCode, Excel, Git
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+> “Progress is progress, no matter how small.” 🚀
 
 ![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanirao1710&show_icons=true&hide_title=true)
 
-## 🤝 Open to Collaboration
-If you're working on a project and need an extra hand, feel free to reach out! I'm open to contributing and collaborating on interesting web development projects.
+## 🤝 Let's Collaborate!
+I'm always looking for exciting opportunities to work on innovative projects. If you think we can collaborate, feel free to reach out!
 
-## 📬 How to Reach Me
-- Send me a message via GitHub Issues or email me at [raoshivani1710@gmail.com](mailto:raoshivani1710@gmail.com).
+## 📧 How to Reach Me:
+- 📬 Email: [raoshivani1710@gmail.com](mailto:raoshivani1710@gmail.com)
 
 ---
 
-Thank you for visiting my profile! 🚀
+Thanks for stopping by my profile! Keep coding, keep creating! ✨
