@@ -1,22 +1,23 @@
 # 👋 Hey there, I'm Shivani!
 
-Welcome to my corner of the web! I'm a web developer with a passion for **HTML** and **CSS**, and I'm diving into **SQL** and **PHP** to level up my backend skills. I love learning new things, solving problems, and building projects that make a difference.
+Welcome to my corner of the web! I'm a **web developer** with a passion for **HTML** and **CSS**, and I'm diving into **SQL** and **PHP** to level up my backend skills. I love learning new things, solving problems, and building projects that make a difference.
 
 ## 🚀 Currently on My Journey:
 - 🌍 Building **full-stack applications** with **ReactJS** and **NodeJS**.
-- 📚 Deep diving into **SQL** and **PHP** to understand the power of databases and server-side logic.
+- 📚 Deep diving into **SQL**, **PHP**, and **Flask** (Python) to understand the power of databases, server-side logic, and backend development with Flask.
 
 ## 🌱 Things I'm Learning Right Now:
 - **SQL**: Crafting complex queries and working with relational databases like **MySQL**.
 - **PHP**: Getting hands-on with server-side development to build dynamic web applications.
+- **Flask (Python)**: Developing backend applications with **Flask**, focusing on REST APIs and microservices.
 
 ## 💬 Let's Connect
 - **LinkedIn**: [Shivani Rao](https://www.linkedin.com/in/shivani-rao-a2072726a/)
 
 ## 🧑‍💻 My Toolset:
-- **Languages**: HTML, CSS, JavaScript, PHP
+- **Languages**: HTML, CSS, JavaScript, PHP, Python
 - **Frontend**: ReactJS
-- **Backend**: NodeJS, PHP
+- **Backend**: NodeJS, PHP, Python (Flask)
 - **Databases**: MySQL
 - **Tools I Love**: VSCode, Excel, Git
 
@@ -24,6 +25,20 @@ Welcome to my corner of the web! I'm a web developer with a passion for **HTML**
 > “Progress is progress, no matter how small.” 🚀
 
 ![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanirao1710&show_icons=true&hide_title=true)
+
+---
+
+## 🎉 Check Out My Animated GitHub Contributions!
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=shivanirao1710&bg_color=ffffff&color=0366d6&line=4c8bf5&point=3b8fd2&area=true&hide_border=true)
+
+---
+
+## 🚀 Here’s What I’m Currently Working On:
+
+- **ReactJS Projects**: Building scalable and dynamic single-page applications.
+- **NodeJS Projects**: Server-side applications and APIs using Express.
+- **Python Projects**: Developing backend services and RESTful APIs using **Flask**.
+- **MySQL**: Enhancing my database knowledge with complex queries and optimizations.
 
 ## 🤝 Let's Collaborate!
 I'm always looking for exciting opportunities to work on innovative projects. If you think we can collaborate, feel free to reach out!
@@ -33,4 +48,8 @@ I'm always looking for exciting opportunities to work on innovative projects. If
 
 ---
 
-Thanks for stopping by my profile! Keep coding, keep creating! ✨
+### 🎬 Fun GIFs and Animations:
+Here's a fun coding animation for a little splash of creativity! 🎉
+
+```markdown
+![Coding Animation](https://media.giphy.com/media/JSs7h7vqk6kkZmL3vJ/giphy.gif)
