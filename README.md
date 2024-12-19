@@ -46,10 +46,4 @@ I'm always looking for exciting opportunities to work on innovative projects. If
 ## 📧 How to Reach Me:
 - 📬 Email: [raoshivani1710@gmail.com](mailto:raoshivani1710@gmail.com)
 
----
 
-### 🎬 Fun GIFs and Animations:
-Here's a fun coding animation for a little splash of creativity! 🎉
-
-```markdown
-![Coding Animation](https://media.giphy.com/media/JSs7h7vqk6kkZmL3vJ/giphy.gif)
