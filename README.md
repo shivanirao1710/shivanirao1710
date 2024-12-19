@@ -28,11 +28,6 @@ Welcome to my corner of the web! I'm a **web developer** with a passion for **HT
 
 ---
 
-## 🎉 Check Out My Animated GitHub Contributions!
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=shivanirao1710&bg_color=ffffff&color=0366d6&line=4c8bf5&point=3b8fd2&area=true&hide_border=true)
-
----
-
 ## 🚀 Here’s What I’m Currently Working On:
 
 - **ReactJS Projects**: Building scalable and dynamic single-page applications.
