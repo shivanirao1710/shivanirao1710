@@ -29,7 +29,7 @@
   <a href="https://github.com/shivanirao1710" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/mr_dare_striker/" target="_blank">
+  <a href="https://www.instagram.com/shivanirao_._/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" target="_blank" />
   </a>
 </div>
