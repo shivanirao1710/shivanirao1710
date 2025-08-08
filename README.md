@@ -9,12 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanirao1710&label=Profile%20views&color=0e75b6&style=flat" alt="shivanirao1710" /> </p>
 
--🔭 I’m currently working on AI-powered applications using Python, Flask, and Power BI.
--🌱 I'm deepening my skills in Exploratory Data Analysis (EDA), SQL, and predictive modeling to build data-driven solutions.
--👯 I'm looking to collaborate on projects in data analytics, AI-driven insights, and backend development.
--💬 Ask me about Flask, EDA, Power BI, SQL, and building intelligent web applications.
--📫 You can reach me at raoshivani1710@gmail.com.
--⚡ Fun fact: I love turning real-world problems into smart, automated solutions using data and AI!
+- 🔭 I’m currently working on **AI-powered applications** using **Python**, **Flask**, and **Power BI**.
+- 🌱 I'm deepening my skills in **Exploratory Data Analysis (EDA)**, **SQL**, and **predictive modeling** to build data-driven solutions.
+- 👯 I'm looking to collaborate on projects in **data analytics**, **AI-driven insights**, and **backend development**.
+- 💬 Ask me about **Flask**, **EDA**, **Power BI**, **SQL**, and building **intelligent web applications**.
+- 📫 You can reach me at **[raoshivani1710@gmail.com](mailto:raoshivani1710@gmail.com)**.
+- ⚡ Fun fact: **I love turning real-world problems into smart, automated solutions using data and AI!**
+
 
 <br>
 
