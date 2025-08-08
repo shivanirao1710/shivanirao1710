@@ -3,7 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=I'm+Shivani!;" />
 </h1>
 
-<h3 align="center" style="color:black;">Hello! I'm a web developer with a passion for <strong>HTML</strong>, <strong>CSS</strong>, and exploring <strong>SQL</strong> and <strong>PHP</strong> to level up my backend skills. I enjoy solving problems and building applications that make an impact.</h3>
+<h3 align="center" style="color:black;">
+  Hello! I'm a web and backend developer passionate about building meaningful applications. I enjoy working with 
+  <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, and I'm actively expanding my expertise in 
+  <strong>SQL</strong>, and <strong>Flask</strong> for backend development. Recently, I've been exploring 
+  <strong>AI-powered tools</strong>, <strong>LLMs</strong>, and <strong>data analytics</strong> to build smart, impactful solutions 
+  that solve real-world problems.
+</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&s">
 
